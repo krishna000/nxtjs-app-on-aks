@@ -1,7 +1,6 @@
 # Next.js on AKS with Helm and Terraform
 
-This guide describes how to containerize a **Next.js monolithic application**, push images securely to Docker Hub, deploy on **Azure Kubernetes Service (AKS)** using **Helm charts**, automate with **Terraform**, and monitor with **Grafana**. It is structured as a client-ready presentation document in `README.md` format.
-
+This guide describes how to containerize a **Next.js monolithic application**, push images securely to Docker Hub, deploy on **Azure Kubernetes Service (AKS)** using **Helm charts**, automate with **Terraform**, and monitor with **Grafana**.
 ---
 
 ## 📌 Table of Contents
